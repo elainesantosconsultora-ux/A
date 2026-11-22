@@ -1,0 +1,1206 @@
+{
+ "_note": "Extraido por leitura de bytecode do JujutsuCraft ver50.1 (Forge 1.20.1). Skill = valor 'skill' no NBT da entidade. NAO testado no jogo.",
+ "_groups": {
+  "100": "Sukuna",
+  "200": "Gojo",
+  "300": "CursedSpeech",
+  "400": "Jogo",
+  "500": "Okkotsu",
+  "600": "Fushiguro",
+  "700": "Kashimo",
+  "800": "Dagon",
+  "900": "Tsukumo"
+ },
+ "techniques": {
+  "Angel": [
+   {
+    "skill": 15,
+    "procedure": "TechniqueJacobsLadder"
+   },
+   {
+    "skill": 20,
+    "procedure": "AngelDomainExpansion"
+   }
+  ],
+  "Chojuro": [
+   {
+    "skill": 5,
+    "procedure": "HanamiSpear"
+   },
+   {
+    "skill": 9,
+    "procedure": "ChojuroStoneHand"
+   },
+   {
+    "skill": 10,
+    "procedure": "HanamiSpear3"
+   },
+   {
+    "skill": 20,
+    "procedure": "OtherDomainExpansion"
+   }
+  ],
+  "Choso": [
+   {
+    "skill": 1005,
+    "procedure": "TechniqueSlicingExorcism"
+   },
+   {
+    "skill": 1006,
+    "procedure": "TechniqueConvergence"
+   },
+   {
+    "skill": 1007,
+    "procedure": "PiercingBlood"
+   },
+   {
+    "skill": 1008,
+    "procedure": "Supernova"
+   },
+   {
+    "skill": 1009,
+    "procedure": "TechniqueFlowingRedScale"
+   },
+   {
+    "skill": 1016,
+    "procedure": "DagonWaterSkill"
+   },
+   {
+    "skill": 1018,
+    "procedure": "TechniqueWingKing"
+   },
+   {
+    "skill": 1019,
+    "procedure": "KechizuPoizon"
+   },
+   {
+    "skill": 1020,
+    "procedure": "ChosoDomainExpansion"
+   }
+  ],
+  "Crystal": [
+   {
+    "skill": 4,
+    "procedure": "AttackOverhead"
+   },
+   {
+    "skill": 5,
+    "procedure": "CrystalRoll"
+   },
+   {
+    "skill": 6,
+    "procedure": "Crystal1"
+   },
+   {
+    "skill": 7,
+    "procedure": "Crystal2"
+   },
+   {
+    "skill": 8,
+    "procedure": "AttackOverhead"
+   },
+   {
+    "skill": 9,
+    "procedure": "AttackOverhead"
+   },
+   {
+    "skill": 10,
+    "procedure": "CrystalBreath"
+   },
+   {
+    "skill": 15,
+    "procedure": "CrystalSelfExplosion"
+   },
+   {
+    "skill": 20,
+    "procedure": "OtherDomainExpansion"
+   }
+  ],
+  "CursedSpeech": [
+   {
+    "skill": 304,
+    "procedure": "Avoidance"
+   },
+   {
+    "skill": 320,
+    "procedure": "InumakiDomainExpansion"
+   }
+  ],
+  "Dagon": [
+   {
+    "skill": 805,
+    "procedure": "DagonWaterSkill"
+   },
+   {
+    "skill": 806,
+    "procedure": "DagonFish1"
+   },
+   {
+    "skill": 807,
+    "procedure": "DagonFish2"
+   },
+   {
+    "skill": 809,
+    "procedure": "DeathSwarm"
+   },
+   {
+    "skill": 810,
+    "procedure": "SummonBathynomus"
+   },
+   {
+    "skill": 820,
+    "procedure": "HorizonOfTheCaptivatingSkandha"
+   }
+  ],
+  "Dhruv": [
+   {
+    "skill": 5,
+    "procedure": "SkillDhruv1"
+   },
+   {
+    "skill": 6,
+    "procedure": "SkillDhruv2"
+   },
+   {
+    "skill": 10,
+    "procedure": "ShikigamiRightClickedOnEntity"
+   },
+   {
+    "skill": 20,
+    "procedure": "OtherDomainExpansion"
+   }
+  ],
+  "Fushiguro": [
+   {
+    "skill": 604,
+    "procedure": "ReturnShadow"
+   },
+   {
+    "skill": 606,
+    "procedure": "SummonDivineDog"
+   },
+   {
+    "skill": 607,
+    "procedure": "SummonDivineDogTotality"
+   },
+   {
+    "skill": 608,
+    "procedure": "SummonNue"
+   },
+   {
+    "skill": 609,
+    "procedure": "SummonGreatSerpent"
+   },
+   {
+    "skill": 610,
+    "procedure": "SummonToad"
+   },
+   {
+    "skill": 611,
+    "procedure": "SummonMaxElephant"
+   },
+   {
+    "skill": 612,
+    "procedure": "SummonRabbitEscape"
+   },
+   {
+    "skill": 613,
+    "procedure": "SummonRoundDeer"
+   },
+   {
+    "skill": 614,
+    "procedure": "SummonPiercingOx"
+   },
+   {
+    "skill": 615,
+    "procedure": "SummonTigerFuneral"
+   },
+   {
+    "skill": 617,
+    "procedure": "SummonMergedBeastAgito"
+   },
+   {
+    "skill": 618,
+    "procedure": "SummonMahoraga"
+   },
+   {
+    "skill": 620,
+    "procedure": "ChimeraShadowGarden"
+   }
+  ],
+  "Geto": [
+   {
+    "skill": 1810,
+    "procedure": "GetoCancelTechnique"
+   },
+   {
+    "skill": 1815,
+    "procedure": "SkillUzumaki"
+   },
+   {
+    "skill": 1816,
+    "procedure": "SkillUzumakiMini"
+   },
+   {
+    "skill": 1820,
+    "procedure": "WombProfusion"
+   }
+  ],
+  "Gojo": [
+   {
+    "skill": 205,
+    "procedure": "Infinity"
+   },
+   {
+    "skill": 206,
+    "procedure": "TechniqueBlue"
+   },
+   {
+    "skill": 207,
+    "procedure": "TechniqueRed"
+   },
+   {
+    "skill": 208,
+    "procedure": "TechniqueBluePunch"
+   },
+   {
+    "skill": 215,
+    "procedure": "HollowPurple"
+   },
+   {
+    "skill": 220,
+    "procedure": "UnlimitedVoid"
+   }
+  ],
+  "Hakari": [
+   {
+    "skill": 4,
+    "procedure": "SkillTakabaKick"
+   },
+   {
+    "skill": 5,
+    "procedure": "SkillBall"
+   },
+   {
+    "skill": 6,
+    "procedure": "SkillDoors"
+   },
+   {
+    "skill": 7,
+    "procedure": "SkillConsecutiveEffects"
+   },
+   {
+    "skill": 20,
+    "procedure": "IdleDeathGamble"
+   }
+  ],
+  "Hanami": [
+   {
+    "skill": 1405,
+    "procedure": "HanamiSpear"
+   },
+   {
+    "skill": 1406,
+    "procedure": "WoodenBall"
+   },
+   {
+    "skill": 1410,
+    "procedure": "HanamiSpear3"
+   },
+   {
+    "skill": 1415,
+    "procedure": "HanamiFlowerOffering"
+   },
+   {
+    "skill": 1420,
+    "procedure": "CeremonialSeaOfLight"
+   }
+  ],
+  "Hazenoki": [
+   {
+    "skill": 5,
+    "procedure": "HazenokiEye"
+   },
+   {
+    "skill": 10,
+    "procedure": "HazenokiEye"
+   },
+   {
+    "skill": 20,
+    "procedure": "OtherDomainExpansion"
+   }
+  ],
+  "Higuruma": [
+   {
+    "skill": 5,
+    "procedure": "GetGavel"
+   },
+   {
+    "skill": 6,
+    "procedure": "AttackJump"
+   },
+   {
+    "skill": 9,
+    "procedure": "GetGavel"
+   },
+   {
+    "skill": 8,
+    "procedure": "AttackContinueHiguruma"
+   },
+   {
+    "skill": 11,
+    "procedure": "GetGavel"
+   },
+   {
+    "skill": 10,
+    "procedure": "AttackStrongMahito"
+   },
+   {
+    "skill": 19,
+    "procedure": "SkillJudgement"
+   },
+   {
+    "skill": 20,
+    "procedure": "DeadlySentencing"
+   }
+  ],
+  "Ino": [
+   {
+    "skill": 5,
+    "procedure": "SkillKaichi"
+   },
+   {
+    "skill": 6,
+    "procedure": "SkillReiki"
+   },
+   {
+    "skill": 7,
+    "procedure": "SkillKirin"
+   },
+   {
+    "skill": 8,
+    "procedure": "SkillRyu"
+   },
+   {
+    "skill": 20,
+    "procedure": "OtherDomainExpansion"
+   }
+  ],
+  "Ishigori": [
+   {
+    "skill": 1205,
+    "procedure": "GraniteBlast"
+   },
+   {
+    "skill": 1206,
+    "procedure": "GraniteBlast2"
+   },
+   {
+    "skill": 1220,
+    "procedure": "IshigoriDomainExpansion"
+   }
+  ],
+  "Itadori": [
+   {
+    "skill": 5,
+    "procedure": "DivergentFist"
+   },
+   {
+    "skill": 6,
+    "procedure": "Attack4ConsecutiveAttacks"
+   },
+   {
+    "skill": 8,
+    "procedure": "Cleave"
+   },
+   {
+    "skill": 13,
+    "procedure": "PiercingBlood"
+   },
+   {
+    "skill": 14,
+    "procedure": "SuperNovaItadori"
+   },
+   {
+    "skill": 18,
+    "procedure": "DeepConcentrationItadori"
+   },
+   {
+    "skill": 19,
+    "procedure": "TransformToSukuna"
+   },
+   {
+    "skill": 20,
+    "procedure": "ItadoriDomainExpansion"
+   }
+  ],
+  "Jjnichi": [
+   {
+    "skill": 4,
+    "procedure": "AttackOverhead"
+   },
+   {
+    "skill": 5,
+    "procedure": "TechniqueFistSingle"
+   },
+   {
+    "skill": 6,
+    "procedure": "FistGun"
+   },
+   {
+    "skill": 7,
+    "procedure": "TechniqueFist"
+   },
+   {
+    "skill": 8,
+    "procedure": "TechniqueFoot"
+   },
+   {
+    "skill": 10,
+    "procedure": "TechniqueFistMeteor"
+   },
+   {
+    "skill": 20,
+    "procedure": "JinichiDomain"
+   }
+  ],
+  "Jogo": [
+   {
+    "skill": 405,
+    "procedure": "JogoFlame1"
+   },
+   {
+    "skill": 406,
+    "procedure": "JogoFlame2"
+   },
+   {
+    "skill": 407,
+    "procedure": "TechniqueEmberInsects"
+   },
+   {
+    "skill": 408,
+    "procedure": "JogoFlame3"
+   },
+   {
+    "skill": 409,
+    "procedure": "JogoFlame4"
+   },
+   {
+    "skill": 410,
+    "procedure": "ChojuroStoneHand"
+   },
+   {
+    "skill": 415,
+    "procedure": "MaximumMeteor"
+   },
+   {
+    "skill": 420,
+    "procedure": "CoffinOfTheIronMountain"
+   }
+  ],
+  "Junpe": [
+   {
+    "skill": 5,
+    "procedure": "SkillMoonDregs"
+   },
+   {
+    "skill": 20,
+    "procedure": "OtherDomainExpansion"
+   }
+  ],
+  "Kaori": [
+   {
+    "skill": 5,
+    "procedure": "SkillAntiGravity"
+   },
+   {
+    "skill": 10,
+    "procedure": "SkillAntiGravityReversed"
+   }
+  ],
+  "Kashimo": [
+   {
+    "skill": 703,
+    "procedure": "KashimoRotateKick"
+   },
+   {
+    "skill": 704,
+    "procedure": "AttackJump"
+   },
+   {
+    "skill": 705,
+    "procedure": "LightningStrike"
+   },
+   {
+    "skill": 706,
+    "procedure": "KashimoRotateKick"
+   },
+   {
+    "skill": 707,
+    "procedure": "AttackJump"
+   },
+   {
+    "skill": 710,
+    "procedure": "TurnUpTheVolume"
+   },
+   {
+    "skill": 715,
+    "procedure": "TechniqueMythicalBeastAmber"
+   },
+   {
+    "skill": 716,
+    "procedure": "TechniqueAh"
+   },
+   {
+    "skill": 717,
+    "procedure": "TechniqueEnergyWave1"
+   },
+   {
+    "skill": 719,
+    "procedure": "SkillKashimoKick"
+   },
+   {
+    "skill": 720,
+    "procedure": "KashimoDomain"
+   },
+   {
+    "skill": 730,
+    "procedure": "OtakeThunder"
+   },
+   {
+    "skill": 731,
+    "procedure": "OtakeFlame"
+   }
+  ],
+  "Kugisaki": [
+   {
+    "skill": 5,
+    "procedure": "KugisakiNail"
+   },
+   {
+    "skill": 6,
+    "procedure": "Hairpin"
+   },
+   {
+    "skill": 7,
+    "procedure": "Hairpin"
+   },
+   {
+    "skill": 20,
+    "procedure": "KugisakiDomainExpansion"
+   }
+  ],
+  "Kurourushi": [
+   {
+    "skill": 4,
+    "procedure": "AttackJump"
+   },
+   {
+    "skill": 5,
+    "procedure": "Cockroach1"
+   },
+   {
+    "skill": 6,
+    "procedure": "Cockroach2"
+   },
+   {
+    "skill": 7,
+    "procedure": "Cockroach3"
+   },
+   {
+    "skill": 8,
+    "procedure": "TechniqueEarthenInsectTrance"
+   },
+   {
+    "skill": 20,
+    "procedure": "KurourushiDomainExpansion"
+   },
+   {
+    "skill": 30,
+    "procedure": "SummonRat"
+   },
+   {
+    "skill": 31,
+    "procedure": "RatExplode"
+   }
+  ],
+  "Kusakabe": [
+   {
+    "skill": 5,
+    "procedure": "TechniqueKusakabe1"
+   },
+   {
+    "skill": 7,
+    "procedure": "TechniqueIaiYuduki"
+   },
+   {
+    "skill": 20,
+    "procedure": "OtherDomainExpansion"
+   }
+  ],
+  "Mahito": [
+   {
+    "skill": 1503,
+    "procedure": "AttackSpeed"
+   },
+   {
+    "skill": 1504,
+    "procedure": "AttackOverhead"
+   },
+   {
+    "skill": 1505,
+    "procedure": "IdleTransfiguration"
+   },
+   {
+    "skill": 1506,
+    "procedure": "TechniqueMahitoHand3"
+   },
+   {
+    "skill": 1507,
+    "procedure": "MahitoGun"
+   },
+   {
+    "skill": 1508,
+    "procedure": "TechniqueBodyRepelSingle"
+   },
+   {
+    "skill": 1509,
+    "procedure": "TechniqueBodyRepel"
+   },
+   {
+    "skill": 1510,
+    "procedure": "TechniquePolymorphicSoulIsomer"
+   },
+   {
+    "skill": 1515,
+    "procedure": "InstantSpiritBodyofDistortedKilling"
+   },
+   {
+    "skill": 1516,
+    "procedure": "AttackStrongMahito"
+   },
+   {
+    "skill": 1520,
+    "procedure": "SelfEmbodimentOfPerfection"
+   }
+  ],
+  "Mahoraga": [
+   {
+    "skill": 1604,
+    "procedure": "AttackJump"
+   },
+   {
+    "skill": 1605,
+    "procedure": "AttackSpeed"
+   },
+   {
+    "skill": 1606,
+    "procedure": "AttackOverhead"
+   },
+   {
+    "skill": 1607,
+    "procedure": "TechniqueExplode"
+   },
+   {
+    "skill": 1608,
+    "procedure": "StoneThrowing"
+   },
+   {
+    "skill": 1609,
+    "procedure": "MahoragaSwimming"
+   },
+   {
+    "skill": 1615,
+    "procedure": "AttackOverheadSuper"
+   },
+   {
+    "skill": 1619,
+    "procedure": "MahoragaCutTheWorld"
+   },
+   {
+    "skill": 1620,
+    "procedure": "OtherDomainExpansion"
+   }
+  ],
+  "Miguel": [
+   {
+    "skill": 5,
+    "procedure": "TechniquePrayerSong"
+   },
+   {
+    "skill": 6,
+    "procedure": "Attack4ConsecutiveAttacks"
+   },
+   {
+    "skill": 20,
+    "procedure": "OtherDomainExpansion"
+   }
+  ],
+  "Nanami": [
+   {
+    "skill": 1305,
+    "procedure": "WeaponNanamiRightClickedInAir"
+   },
+   {
+    "skill": 1306,
+    "procedure": "AttackJump"
+   },
+   {
+    "skill": 1307,
+    "procedure": "Attack4ConsecutiveAttacks"
+   },
+   {
+    "skill": 1310,
+    "procedure": "Garagara"
+   },
+   {
+    "skill": 1320,
+    "procedure": "NanamiDomainExpansion"
+   }
+  ],
+  "Naoya": [
+   {
+    "skill": 1905,
+    "procedure": "SkillProjectionSorcery"
+   },
+   {
+    "skill": 1907,
+    "procedure": "SpeedIsPower"
+   },
+   {
+    "skill": 1910,
+    "procedure": "SkillExplodeAir"
+   },
+   {
+    "skill": 1915,
+    "procedure": "AttackProjectionSorcery"
+   },
+   {
+    "skill": 1916,
+    "procedure": "AttackTackleFlying"
+   },
+   {
+    "skill": 1920,
+    "procedure": "TimeCellMoonPalace"
+   },
+   {
+    "skill": 1930,
+    "procedure": "HighSpeedMove"
+   }
+  ],
+  "Nishimiya": [
+   {
+    "skill": 5,
+    "procedure": "WindScythe"
+   },
+   {
+    "skill": 6,
+    "procedure": "WindScythe2"
+   },
+   {
+    "skill": 10,
+    "procedure": "WindScytheTornade"
+   },
+   {
+    "skill": 20,
+    "procedure": "OtherDomainExpansion"
+   }
+  ],
+  "Ogi": [
+   {
+    "skill": 5,
+    "procedure": "TechniqueBlazingCourage"
+   },
+   {
+    "skill": 11,
+    "procedure": "TechniqueOgi1"
+   },
+   {
+    "skill": 12,
+    "procedure": "TechniqueOgi2"
+   },
+   {
+    "skill": 13,
+    "procedure": "TechniqueOgi3"
+   },
+   {
+    "skill": 14,
+    "procedure": "TechniqueOgi4"
+   },
+   {
+    "skill": 15,
+    "procedure": "TechniqueOgi5"
+   },
+   {
+    "skill": 19,
+    "procedure": "TechniqueOgi9"
+   },
+   {
+    "skill": 20,
+    "procedure": "OtherDomainExpansion"
+   }
+  ],
+  "Okkotsu": [
+   {
+    "skill": 503,
+    "procedure": "AttackSpeed"
+   },
+   {
+    "skill": 504,
+    "procedure": "AttackStrongOkkotsu"
+   },
+   {
+    "skill": 505,
+    "procedure": "TechniqueImitation1"
+   },
+   {
+    "skill": 506,
+    "procedure": "SkillDhruv3"
+   },
+   {
+    "skill": 507,
+    "procedure": "ThinIceBreaker"
+   },
+   {
+    "skill": 510,
+    "procedure": "TechniqueRika1"
+   },
+   {
+    "skill": 515,
+    "procedure": "TechniquePureLove"
+   },
+   {
+    "skill": 520,
+    "procedure": "AuthenticMutualLove"
+   }
+  ],
+  "RantaZenin": [
+   {
+    "skill": 10,
+    "procedure": "SkillRantaEye"
+   },
+   {
+    "skill": 20,
+    "procedure": "OtherDomainExpansion"
+   }
+  ],
+  "ReggieStar": [
+   {
+    "skill": 5,
+    "procedure": "ReceiptKitchenKnife"
+   },
+   {
+    "skill": 10,
+    "procedure": "ReceiptCar"
+   },
+   {
+    "skill": 11,
+    "procedure": "ReceiptTruck"
+   },
+   {
+    "skill": 15,
+    "procedure": "ReceiptHouse"
+   },
+   {
+    "skill": 20,
+    "procedure": "OtherDomainExpansion"
+   },
+   {
+    "skill": 30,
+    "procedure": "BayerKnife"
+   }
+  ],
+  "Rozetsu": [
+   {
+    "skill": 3,
+    "procedure": "AttackJump"
+   },
+   {
+    "skill": 4,
+    "procedure": "AttackOverhead"
+   },
+   {
+    "skill": 5,
+    "procedure": "SkillRozetsuShikigami1"
+   },
+   {
+    "skill": 6,
+    "procedure": "SkillRozetsuShikigami2"
+   },
+   {
+    "skill": 7,
+    "procedure": "SkillRozetsuShikigami3"
+   },
+   {
+    "skill": 20,
+    "procedure": "RozetsuDomainExpansion"
+   },
+   {
+    "skill": 30,
+    "procedure": "TechniqueHanakoHand"
+   },
+   {
+    "skill": 31,
+    "procedure": "TechniqueHanakoHand2"
+   }
+  ],
+  "SmallpoxDeity": [
+   {
+    "skill": 5,
+    "procedure": "SkillStone"
+   },
+   {
+    "skill": 6,
+    "procedure": "TechniqueSmallpoxDeityBreath"
+   },
+   {
+    "skill": 20,
+    "procedure": "GraveyardDomain"
+   },
+   {
+    "skill": 30,
+    "procedure": "SkillSoulExplosion"
+   }
+  ],
+  "Sukuna": [
+   {
+    "skill": 105,
+    "procedure": "Dismantle"
+   },
+   {
+    "skill": 106,
+    "procedure": "Cleave"
+   },
+   {
+    "skill": 107,
+    "procedure": "Open"
+   },
+   {
+    "skill": 111,
+    "procedure": "SkillSukunaCombo1"
+   },
+   {
+    "skill": 112,
+    "procedure": "SkillSukunaCombo2"
+   },
+   {
+    "skill": 113,
+    "procedure": "SkillSukunaCombo3"
+   },
+   {
+    "skill": 120,
+    "procedure": "MalevolentShrine"
+   },
+   {
+    "skill": 150,
+    "procedure": "Zonba"
+   },
+   {
+    "skill": 151,
+    "procedure": "TechniqueSkeleton1"
+   },
+   {
+    "skill": 152,
+    "procedure": "TechniqueSkull"
+   },
+   {
+    "skill": 153,
+    "procedure": "TechniqueScissors"
+   },
+   {
+    "skill": 154,
+    "procedure": "SkillEnergyWave2"
+   },
+   {
+    "skill": 155,
+    "procedure": "TechniqueTamamonoMae1"
+   },
+   {
+    "skill": 156,
+    "procedure": "TechniqueTamamonomae2"
+   },
+   {
+    "skill": 157,
+    "procedure": "TechniqueFoxFire"
+   },
+   {
+    "skill": 158,
+    "procedure": "AttackPiecingOx"
+   },
+   {
+    "skill": 159,
+    "procedure": "TechniqueMucus"
+   },
+   {
+    "skill": 160,
+    "procedure": "SkillGanesha"
+   }
+  ],
+  "Takaba": [
+   {
+    "skill": 1705,
+    "procedure": "SkillComedian"
+   },
+   {
+    "skill": 1706,
+    "procedure": "SkillTakabaKick"
+   },
+   {
+    "skill": 1710,
+    "procedure": "TakabaLookOut"
+   },
+   {
+    "skill": 1715,
+    "procedure": "SkillWiFi"
+   },
+   {
+    "skill": 1720,
+    "procedure": "OtherDomainExpansion"
+   }
+  ],
+  "TakakoUro": [
+   {
+    "skill": 10,
+    "procedure": "ThinIceBreaker"
+   },
+   {
+    "skill": 20,
+    "procedure": "UroDomainExpansion"
+   }
+  ],
+  "Todo": [
+   {
+    "skill": 2003,
+    "procedure": "AttackOverhead"
+   },
+   {
+    "skill": 2004,
+    "procedure": "AttackJump"
+   },
+   {
+    "skill": 2005,
+    "procedure": "SkillBoogieWoogie"
+   },
+   {
+    "skill": 2006,
+    "procedure": "Lariat"
+   },
+   {
+    "skill": 2007,
+    "procedure": "Attack4ConsecutiveAttacks"
+   },
+   {
+    "skill": 2015,
+    "procedure": "AttackTodoBlackFlash"
+   },
+   {
+    "skill": 2020,
+    "procedure": "OtherDomainExpansion"
+   }
+  ],
+  "Tsukumo": [
+   {
+    "skill": 904,
+    "procedure": "AttackOverhead"
+   },
+   {
+    "skill": 905,
+    "procedure": "TechniqueGarudaBall"
+   },
+   {
+    "skill": 906,
+    "procedure": "TechniqueGaruda1"
+   },
+   {
+    "skill": 910,
+    "procedure": "TechniqueStarRage"
+   },
+   {
+    "skill": 915,
+    "procedure": "TechniqueStarRage"
+   },
+   {
+    "skill": 920,
+    "procedure": "TsukumoDomainExpansion"
+   }
+  ],
+  "Uraume": [
+   {
+    "skill": 5,
+    "procedure": "IceSpearSkill"
+   },
+   {
+    "skill": 6,
+    "procedure": "UraumeSkill1"
+   },
+   {
+    "skill": 8,
+    "procedure": "FrostCalm"
+   },
+   {
+    "skill": 9,
+    "procedure": "Icefall"
+   },
+   {
+    "skill": 20,
+    "procedure": "OtherDomainExpansion"
+   }
+  ],
+  "Yaga": [
+   {
+    "skill": 6,
+    "procedure": "DollTackle"
+   },
+   {
+    "skill": 10,
+    "procedure": "SummonDollsRain"
+   },
+   {
+    "skill": 15,
+    "procedure": "SummonDollRainGiant"
+   },
+   {
+    "skill": 20,
+    "procedure": "OtherDomainExpansion"
+   }
+  ],
+  "Yorozu": [
+   {
+    "skill": 5,
+    "procedure": "AttackOverhead"
+   },
+   {
+    "skill": 6,
+    "procedure": "AttackSpeed"
+   },
+   {
+    "skill": 7,
+    "procedure": "AttackJump"
+   },
+   {
+    "skill": 8,
+    "procedure": "TechniqueLiquidArrow"
+   },
+   {
+    "skill": 9,
+    "procedure": "TechniqueNeedle"
+   },
+   {
+    "skill": 12,
+    "procedure": "TechniqueLiquidMetal"
+   },
+   {
+    "skill": 14,
+    "procedure": "TechniqueInsectArmor"
+   },
+   {
+    "skill": 15,
+    "procedure": "TechniqueTrueSphere"
+   },
+   {
+    "skill": 20,
+    "procedure": "ThreefoldAffliction"
+   }
+  ]
+ }
+}
